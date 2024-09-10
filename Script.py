@@ -7,8 +7,8 @@ Mʏ Nᴀᴍᴇ Is <a href=https://t.me/{}>{}</a></blockquote>,
 Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
     ABOUT_TXT = """<b>✯ Mʏ Nᴀᴍᴇ : {}</b>
-<b>✯ Cʀᴇᴀᴛᴏʀ : <a href=https://t.me/MOVIE_LOVERZZ>☢ MOVIE LOVERZZ ☢</a></b>
-<b>✯ Uᴘᴅᴀᴛᴇs : <a href=https://t.me/MOVIE_LOVERZZ> Bot Updates 👾</a></b>
+<b>✯ Cʀᴇᴀᴛᴏʀ : <a href=https://t.me/benzmovies>☢ Benz Movies ☢</a></b>
+<b>✯ Uᴘᴅᴀᴛᴇs : <a href=https://t.me/benzmovies> Bot Updates 👾</a></b>
 <b>✯ Bᴜɪʟᴅ Sᴛᴀᴛᴜs : ᴠ2.0.62 [Sᴛᴀʙʟᴇ]</b>"""
 
     SOURCE_TXT = """
@@ -146,7 +146,7 @@ Nᴀᴍᴇ - {}"""
     MELCOW_ENG = """<b>Hᴇʟʟᴏ {} 😍, Aɴᴅ Wᴇʟᴄᴏᴍᴇ Tᴏ {} Gʀᴏᴜᴘ ❤️ ᴇɴᴛᴇʀ ᴏɴʟʏ ᴍᴏᴠɪᴇ ᴛɪᴛʟᴇ,ᴅᴏɴ'ᴛ ᴍᴇɴᴛɪᴏɴ ʏᴇᴀʀ & ʟᴀɴɢᴜᴀɢᴇ ᴏʀ ᴀɴʏᴛʜɪɴɢ..</b>"""
 
     SHORTLINK_INFO = """
-<b>──「<a href=https://t.me/MOVIE_LOVERZZ> DONATE & SUPPORT US </a> 」──
+<b>──「<a href=https://t.me/benzmovies> DONATE & SUPPORT US </a> 」──
 
 𝖧𝗂 ɢᴜʏꜱ.
 𝖮𝗎𝗋 𝖡𝗈𝗍 𝖨𝗌 𝖦𝗂𝗏𝗂𝗇𝗀 𝖣𝗂𝗋𝖾𝖼𝗍 𝖥𝗂𝗅𝖾𝗌 𝖶𝗂𝗍𝗁𝗈𝗎𝗍 𝖲𝗁𝗈𝗋𝗍𝗇𝖾𝗋𝗌, 𝖴𝗇𝗅𝗂𝗄𝖾 𝖮𝗍𝗁𝖾𝗋 𝖡𝗈𝗍𝗌. 𝖲𝗈 𝖨𝖿 𝖸𝗈𝗎 𝖫𝗂𝗄𝖾 𝖮𝗎𝗋 𝖥𝗋𝖾𝖾 𝖲𝖾𝗋𝗏𝗂𝖼𝖾 𝖯𝗅𝖾𝖺𝗌𝖾 𝖣𝗈𝗇𝖺𝗍𝖾 𝖴𝗌
@@ -157,9 +157,9 @@ Nᴀᴍᴇ - {}"""
 ᴠᴇʀᴇ ᴄʜᴀɴɴᴇʟꜱ ʟᴀɢᴀ ꜰɪʟᴇꜱ ᴋɪ ꜱʜᴏʀᴛʟɪɴᴋꜱ ᴀɴᴅ ꜱᴜʙꜱᴄʀɪᴘᴛɪᴏɴꜱ ꜱᴄʜᴇᴍᴇ ɪᴛʜᴇʏ ᴍᴀɴᴀ ᴄʜᴀɴɴᴇʟ ʟᴏ ᴜɴᴅᴀᴅᴜ. ɪɴᴋᴀ ᴍɪ ɪꜱᴛᴀᴍ 
 
 𝖸𝗈𝗎 𝖢𝖺𝗇 𝖣𝗈𝗇𝖺𝗍𝖾 𝖳𝗁𝗋𝗈𝗎𝗀𝗁 𝖮𝗎𝗋 𝖴𝖯𝖨 𝖨𝖣 👇
-𝗨𝗣𝗜 𝗜𝗗:- <code> movieloverz11220@okaxis </code>
+𝗨𝗣𝗜 𝗜𝗗:- <code> Benzmawa@axisbank </code>
 
-Qʀ ᴄᴏᴅᴇ:- 👉ꜱᴄᴀɴ Qʀ ᴄᴏᴅᴇ (https://graph.org/file/1e1e883ef2309c91aad77.jpg) (ᴏᴘᴇɴ ʟɪɴᴋ,ꜱᴀᴠᴇ Qʀ ᴀɴᴅ ᴘᴀʏ)
+Qʀ ᴄᴏᴅᴇ:- 👉ꜱᴄᴀɴ Qʀ ᴄᴏᴅᴇ (https://graph.org/file/d0fa8e629889b37eeb8c5.jpg) (ᴏᴘᴇɴ ʟɪɴᴋ,ꜱᴀᴠᴇ Qʀ ᴀɴᴅ ᴘᴀʏ)
   
 𝗧𝗛𝗔𝗡𝗞𝗦 𝗜𝗡 𝗔𝗗𝗩𝗔𝗡𝗖𝗘, 𝗬𝗢𝗨𝗥 𝗖𝗢𝗡𝗧𝗥𝗜𝗕𝗨𝗧𝗜𝗢𝗡𝗦 𝗥𝗘𝗔𝗟𝗟𝗬 𝗛𝗘𝗟𝗣𝗙𝗨𝗟𝗟 𝗙𝗢𝗥 𝗨𝗦🤍
  </b>
@@ -202,8 +202,8 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
     CAPTION = """<b>📂Fɪʟᴇɴᴀᴍᴇ : {file_name}
     
 ╔════ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ════╗
-▫️<a href=https://t.me/movie_loverzz> ᴍᴏᴠɪᴇ ʟᴏᴠᴇʀᴢᴢ  </a>
-▫️<a href=https://t.me/+ntGBpf8UhmFkNmQ1> ʀᴇǫᴜᴇsᴛ ᴍᴏᴠɪᴇs​ </a>
+▫️<a href=https://t.me/benzmovies> Benz Movies  </a>
+▫️<a href= https://t.me/+xXTTgPD9oa02ZTll> ʀᴇǫᴜᴇsᴛ ᴍᴏᴠɪᴇs​ </a>
 ╚════ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ════╝</b>""" 
 
     IMDB_TEMPLATE_TXT = """
